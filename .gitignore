@@ -1,0 +1,22 @@
+### Small hack to ignore binaries
+# Ignore all
+*
+
+# Unignore all files with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+### Binaries ignored, now ignore certain extensions as well
+
+# Text editor auto-generated files
+*~
+*.un
+*.swp
+
+# Keyfiles
+*.key
+
+# Input files
+*.in
